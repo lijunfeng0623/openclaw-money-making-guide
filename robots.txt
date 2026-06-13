@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lijunfeng0623.github.io/openclaw-money-making-guide/sitemap.xml
