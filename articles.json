@@ -5,5 +5,12 @@
     "desc": "不懂代码也能搭建自己的AI Agent！本文用最简步骤带你30分钟跑通第一个OpenClaw自动化流程。",
     "keywords": "OpenClaw教程, AI Agent入门, 零基础搭建, 新手教程",
     "published": "2026-06-13"
+  },
+  {
+    "title": "OpenClaw接入DeepSeek API完整教程（2026最新版）",
+    "slug": "openclaw-deepseek-setup",
+    "desc": "手把手教你OpenClaw接入DeepSeek API，从API密钥获取到模型配置，15分钟跑通第一个自动化流程。",
+    "keywords": "OpenClaw DeepSeek, AI Agent配置, DeepSeek API教程",
+    "published": "2026-06-13"
   }
 ]
