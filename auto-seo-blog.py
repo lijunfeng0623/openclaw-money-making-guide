@@ -477,21 +477,26 @@ Sitemap: {GITHUB_URL}/sitemap.xml
     # 8. git push到GitHub
     try:
         os.chdir(BLOG_DIR)
-        # git add
-        subprocess.run(["git", "add", "."], capture_output=True)
-        # git commit
+        subprocess.run(["git", "add", "."], capture_output=True, timeout=30)
         commit_msg = f"📝 自动更新: {article['title']} [{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}]"
-        result = subprocess.run(["git", "commit", "-m", commit_msg], capture_output=True, text=True)
+        result = subprocess.run(["git", "commit", "-m", commit_msg], capture_output=True, text=True, timeout=30)
         if "nothing to commit" in result.stdout or "nothing to commit" in result.stderr:
             log("ℹ️ 无变更需要提交")
         else:
             log(f"✅ Git提交: {commit_msg}")
-            # git push
-            push_result = subprocess.run(["git", "push"], capture_output=True, text=True)
-            if push_result.returncode == 0:
+            # 用 gh CLI push (自带auth)
+            push_result = subprocess.run(["gh", "repo", "sync", GITHUB_REPO, "--force"], capture_output=True, text=True, timeout=60)
+            if push_result.returncode == 0 or "not a fork" in push_result.stderr:
                 log(f"✅ 已推送到GitHub Pages")
             else:
-                log(f"⚠️ Push失败: {push_result.stderr[:200]}")
+                # fallback: 直接用git push
+                push_result = subprocess.run(["git", "push"], capture_output=True, text=True, timeout=60)
+                if push_result.returncode == 0:
+                    log(f"✅ 已推送到GitHub Pages")
+                else:
+                    log(f"⚠️ Push失败: {push_result.stderr[:200]}")
+    except subprocess.TimeoutExpired:
+        log(f"⚠️ Git操作超时（网络问题）")
     except Exception as e:
         log(f"⚠️ Git操作异常: {e}")
     
