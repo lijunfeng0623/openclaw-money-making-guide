@@ -12,5 +12,12 @@
     "desc": "手把手教你OpenClaw接入DeepSeek API，从API密钥获取到模型配置，15分钟跑通第一个自动化流程。",
     "keywords": "OpenClaw DeepSeek, AI Agent配置, DeepSeek API教程",
     "published": "2026-06-13"
+  },
+  {
+    "title": "OpenClaw批量生成SEO文章实战：日更10篇的AI写作流水线",
+    "slug": "openclaw-bulk-seo-writing",
+    "desc": "用OpenClaw搭建SEO文章批量生成流水线，自动选题、批量写作、一键发布，日更10篇高质量文章的全流程拆解。",
+    "keywords": "OpenClaw批量写作, SEO文章批量生成, AI写作流水线, 日更10篇, 内容农场自动化",
+    "published": "2026-09-20"
   }
 ]
