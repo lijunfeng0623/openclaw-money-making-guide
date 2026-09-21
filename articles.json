@@ -19,5 +19,12 @@
     "desc": "用OpenClaw搭建SEO文章批量生成流水线，自动选题、批量写作、一键发布，日更10篇高质量文章的全流程拆解。",
     "keywords": "OpenClaw批量写作, SEO文章批量生成, AI写作流水线, 日更10篇, 内容农场自动化",
     "published": "2026-09-20"
+  },
+  {
+    "title": "OpenClaw多账号矩阵运营：AI自动管理10个自媒体号",
+    "slug": "openclaw-multi-account-matrix",
+    "desc": "一个Agent管10个号：用OpenClaw搭建自媒体矩阵系统，自动生成差异化内容、定时分发、数据汇总，做大规模的被动收入。",
+    "keywords": "OpenClaw矩阵运营, 多账号管理, 自媒体矩阵, AI自动化运营, 批量账号",
+    "published": "2026-09-21"
   }
 ]
