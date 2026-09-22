@@ -26,5 +26,12 @@
     "desc": "一个Agent管10个号：用OpenClaw搭建自媒体矩阵系统，自动生成差异化内容、定时分发、数据汇总，做大规模的被动收入。",
     "keywords": "OpenClaw矩阵运营, 多账号管理, 自媒体矩阵, AI自动化运营, 批量账号",
     "published": "2026-09-21"
+  },
+  {
+    "title": "OpenClaw接广告联盟赚被动收入：AdSense/百度联盟自动优化",
+    "slug": "openclaw-ad-optimization",
+    "desc": "用OpenClaw自动分析广告数据、智能调整广告位、A/B测试广告样式，让AI替你24小时优化广告收入，躺着赚被动收入。",
+    "keywords": "OpenClaw广告联盟, AdSense优化, 百度联盟, AI广告优化, 被动收入, 广告收入最大化",
+    "published": "2026-09-22"
   }
 ]
