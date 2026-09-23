@@ -33,5 +33,12 @@
     "desc": "用OpenClaw自动分析广告数据、智能调整广告位、A/B测试广告样式，让AI替你24小时优化广告收入，躺着赚被动收入。",
     "keywords": "OpenClaw广告联盟, AdSense优化, 百度联盟, AI广告优化, 被动收入, 广告收入最大化",
     "published": "2026-09-22"
+  },
+  {
+    "title": "OpenClaw子Agent分身术：5个AI分身同时干活月入翻倍",
+    "slug": "openclaw-subagent-parallel-earning",
+    "desc": "OpenClaw支持sessions_spawn派生子Agent，本文教你同时跑5个AI分身——一个写文章、一个做SEO、一个管客服、一个爬数据、一个盯盘，一份时间赚5份钱。",
+    "keywords": "OpenClaw子Agent, AI分身, 并行赚钱, sessions_spawn, 多任务自动化",
+    "published": "2026-09-23"
   }
 ]
