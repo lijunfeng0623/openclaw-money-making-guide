@@ -47,5 +47,12 @@
     "desc": "用OpenClaw搭建全自动数据采集系统：自动抓取行业数据、清洗整理、打包出售到数据市场。从电商比价数据到行业报告，一套完整的爬虫变现方案，月入过万真实路径。",
     "keywords": "OpenClaw爬虫, 数据采集变现, 网页抓取赚钱, AI自动化爬虫, 数据打包出售",
     "published": "2026-09-24"
+  },
+  {
+    "title": "OpenClaw Skill开发赚钱：手把手写一个付费ClawHub技能",
+    "slug": "openclaw-skill-monetization",
+    "desc": "ClawHub不只是下载技能的地方——你也能在上面卖技能赚钱。本文从Skill结构拆解到skill_workshop发布全流程，教你开发一个能卖钱的OpenClaw技能，打开AI技能变现新渠道。",
+    "keywords": "OpenClaw Skill开发, ClawHub技能变现, Skill Workshop赚钱, 技能市场, AI技能出售",
+    "published": "2026-09-25"
   }
 ]
