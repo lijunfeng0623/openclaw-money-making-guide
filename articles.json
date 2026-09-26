@@ -54,5 +54,12 @@
     "desc": "ClawHub不只是下载技能的地方——你也能在上面卖技能赚钱。本文从Skill结构拆解到skill_workshop发布全流程，教你开发一个能卖钱的OpenClaw技能，打开AI技能变现新渠道。",
     "keywords": "OpenClaw Skill开发, ClawHub技能变现, Skill Workshop赚钱, 技能市场, AI技能出售",
     "published": "2026-09-25"
+  },
+  {
+    "title": "OpenClaw接入Claude API实战：用最强模型做自动化赚钱",
+    "slug": "openclaw-claude-api-guide",
+    "desc": "Claude是公认最擅长编程和推理的AI模型。本文详解OpenClaw接入Claude API的完整流程，对比DeepSeek的成本差异，教你用最强模型做高价值自动化任务，精准变现。",
+    "keywords": "OpenClaw Claude API, Anthropic API配置, Claude模型赚钱, AI自动化高精度, Claude vs DeepSeek",
+    "published": "2026-09-26"
   }
 ]
