@@ -61,5 +61,12 @@
     "desc": "Claude是公认最擅长编程和推理的AI模型。本文详解OpenClaw接入Claude API的完整流程，对比DeepSeek的成本差异，教你用最强模型做高价值自动化任务，精准变现。",
     "keywords": "OpenClaw Claude API, Anthropic API配置, Claude模型赚钱, AI自动化高精度, Claude vs DeepSeek",
     "published": "2026-09-26"
+  },
+  {
+    "title": "OpenClaw飞书自动化办公：AI替你管理飞书文档和表格赚钱",
+    "slug": "openclaw-feishu-automation",
+    "desc": "OpenClaw内置飞书全套API工具，能自动创建文档、写入多维表格、回复飞书消息。本文教你用AI批量处理飞书办公任务，把省下来的时间做副业赚钱，或直接打包成企业服务出售。",
+    "keywords": "OpenClaw飞书, 飞书自动化, 飞书AI办公, 文档自动生成, 多维表格自动化, 企业效率变现",
+    "published": "2026-09-27"
   }
 ]
