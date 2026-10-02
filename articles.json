@@ -89,5 +89,12 @@
     "desc": "让AI当你的商业情报员：用OpenClaw定时抓取竞品价格、销量、评价和上新，自动生成分析报告推送给你。无论电商选品还是内容对标，用数据洞察抢先一步，把竞品信息差直接变成利润。",
     "keywords": "OpenClaw竞品分析, 竞品监控自动化, AI市场研究, 竞争对手追踪, 选品赚钱, 电商竞品数据分析",
     "published": "2026-10-01"
+  },
+  {
+    "title": "ClawHub安装指南：700+AI技能一键部署",
+    "slug": "clawhub-install-guide",
+    "desc": "ClawHub是OpenClaw官方技能市场，本文详解如何通过ClawHub安装700+社区技能，从搜索到配置全流程。",
+    "keywords": "ClawHub, OpenClaw技能, AI技能安装, ClawHub教程",
+    "published": "2026-10-02"
   }
 ]
