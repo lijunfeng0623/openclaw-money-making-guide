@@ -96,5 +96,12 @@
     "desc": "ClawHub是OpenClaw官方技能市场，本文详解如何通过ClawHub安装700+社区技能，从搜索到配置全流程。",
     "keywords": "ClawHub, OpenClaw技能, AI技能安装, ClawHub教程",
     "published": "2026-10-02"
+  },
+  {
+    "title": "OpenClaw vs AutoGPT vs Dify：2026年主流AI Agent框架对比",
+    "slug": "openclaw-vs-autogpt-vs-dify",
+    "desc": "2026年三大AI Agent框架横向对比：功能、成本、易用性、扩展性，帮你选出最适合的那个。",
+    "keywords": "OpenClaw对比, AutoGPT, Dify, AI Agent框架选型",
+    "published": "2026-10-04"
   }
 ]
