@@ -103,5 +103,12 @@
     "desc": "2026年三大AI Agent框架横向对比：功能、成本、易用性、扩展性，帮你选出最适合的那个。",
     "keywords": "OpenClaw对比, AutoGPT, Dify, AI Agent框架选型",
     "published": "2026-10-04"
+  },
+  {
+    "title": "用OpenClaw自动发小红书：从安装到变现全流程",
+    "slug": "openclaw-xiaohongshu-auto-post",
+    "desc": "用OpenClaw实现小红书全自动运营：生成内容、自动排版、定时发布，解放双手的运营方案。",
+    "keywords": "OpenClaw小红书, 小红书自动发布, AI发帖, 小红书运营自动化",
+    "published": "2026-10-05"
   }
 ]
