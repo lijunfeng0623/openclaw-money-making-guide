@@ -117,5 +117,12 @@
     "desc": "5个真实的OpenClaw赚钱案例，从大学生到程序员，从零到月入5000+，他们做对了什么。",
     "keywords": "OpenClaw赚钱案例, AI Agent副业, 月入5000, 被动收入案例",
     "published": "2026-10-06"
+  },
+  {
+    "title": "OpenClaw定时任务(cron)完全指南：24小时自动运行",
+    "slug": "openclaw-cron-guide",
+    "desc": "OpenClaw的cron定时任务系统详解，从基本语法到实际应用场景，打造7x24小时自动运行的AI助手。",
+    "keywords": "OpenClaw cron, 定时任务, AI自动化, 24小时运行",
+    "published": "2026-10-07"
   }
 ]
