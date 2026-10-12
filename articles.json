@@ -131,5 +131,12 @@
     "desc": "2026年最值得使用的AI赚钱工具对比评测，8大维度横向打分，帮你找到最适合的自动化收入工具。",
     "keywords": "AI赚钱工具, 2026排行, OpenClaw, AI副业工具",
     "published": "2026-10-09"
+  },
+  {
+    "title": "OpenClaw多模型切换实战：DeepSeek/Claude/GPT-4o混用策略",
+    "slug": "openclaw-multi-model-switch",
+    "desc": "用OpenClaw同时调用DeepSeek、Claude和GPT-4o，按任务智能分配模型，既省钱又高效。附完整配置文件。",
+    "keywords": "OpenClaw多模型, DeepSeek Claude对比, GPT-4o, 模型切换, AI成本优化",
+    "published": "2026-10-12"
   }
 ]
