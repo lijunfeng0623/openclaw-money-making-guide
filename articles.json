@@ -166,5 +166,12 @@
     "desc": "OpenClaw能直接控制你的电脑——自动打开浏览器、操作文件、发送消息。15个实用自动化场景合集。",
     "keywords": "OpenClaw自动化, 电脑自动化, AI操作电脑, 浏览器自动化",
     "published": "2026-10-16"
+  },
+  {
+    "title": "AI Agent入门必读：OpenClaw核心概念一篇搞懂",
+    "slug": "openclaw-core-concepts",
+    "desc": "一篇搞懂OpenClaw的SOUL.md、MEMORY.md、Skills、cron等核心概念，打通AI Agent认知框架。",
+    "keywords": "AI Agent入门, OpenClaw概念, 技能Skills, Memory记忆, cron定时任务",
+    "published": "2026-10-19"
   }
 ]
