@@ -173,5 +173,12 @@
     "desc": "一篇搞懂OpenClaw的SOUL.md、MEMORY.md、Skills、cron等核心概念，打通AI Agent认知框架。",
     "keywords": "AI Agent入门, OpenClaw概念, 技能Skills, Memory记忆, cron定时任务",
     "published": "2026-10-19"
+  },
+  {
+    "title": "OpenClaw Skill开发赚钱：手把手写一个付费ClawHub技能",
+    "slug": "openclaw-skill-monetization",
+    "desc": "ClawHub不只是下载技能的地方——你也能在上面卖技能赚钱。本文从Skill结构拆解到skill_workshop发布全流程，教你开发一个能卖钱的OpenClaw技能，打开AI技能变现新渠道。",
+    "keywords": "OpenClaw Skill开发, ClawHub技能变现, Skill Workshop赚钱, 技能市场, AI技能出售",
+    "published": "2026-10-20"
   }
 ]
