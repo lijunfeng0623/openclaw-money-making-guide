@@ -222,5 +222,12 @@
     "desc": "让AI当你的商业情报员：用OpenClaw定时抓取竞品价格、销量、评价和上新，自动生成分析报告推送给你。无论电商选品还是内容对标，用数据洞察抢先一步，把竞品信息差直接变成利润。",
     "keywords": "OpenClaw竞品分析, 竞品监控自动化, AI市场研究, 竞争对手追踪, 选品赚钱, 电商竞品数据分析",
     "published": "2026-10-26"
+  },
+  {
+    "title": "OpenClaw接入DeepSeek API完整教程（2026最新版）",
+    "slug": "openclaw-deepseek-setup",
+    "desc": "手把手教你OpenClaw接入DeepSeek API，从API密钥获取到模型配置，15分钟跑通第一个自动化流程。",
+    "keywords": "OpenClaw DeepSeek, AI Agent配置, DeepSeek API教程",
+    "published": "2026-10-27"
   }
 ]
